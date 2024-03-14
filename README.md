@@ -1,5 +1,5 @@
 <h3 align="center">As a student at 42, I'm passionate about exploring the realms of blockchain technology and 3D rendering.</h3>
-
+<img align="right" alt="Coding" with="400" src="https://media.tenor.com/RN_Qtdf11N0AAAAM/space.gif">
 - 🔭 I’m currently working on the 42 projects [Minishell](https://m4nnb3ll.medium.com/minishell-building-a-mini-bash-a-42-project-b55a10598218)
 
 - Also I do 3d motion capture with [EasyMocap](https://github.com/zju3dv/EasyMocap)
