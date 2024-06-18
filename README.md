@@ -1,8 +1,7 @@
-# 🌟 Welcome to My GitHub Profile!
-
-I'm **Lilien**, a passionate developer who loves to explore new technologies and create innovative solutions. Here, you will find my projects, contributions, and a bit about me.
-
 ![Screenshot 2024-06-18 205055](https://github.com/Lilien86/Lilien86/assets/125573483/5e6bfc0b-392b-40eb-9730-c6ced4b3be26)
+
+# 🌟 Welcome to My GitHub Profile!
+I'm **Lilien**, a passionate developer who loves to explore new technologies and create innovative solutions. Here, you will find my projects, contributions, and a bit about me.
 
 ## 📈 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lilien86)](https://github.com/Lilien86/github-readme-stats)
