@@ -1,5 +1,5 @@
 
-# 👋 Welcome to My GitHub Profile!  
+# 👋 Welcome !  
 I'm **Lilien**. Here, you'll find my projects and contributions.
 
 ## 🚀 **Featured Project**
