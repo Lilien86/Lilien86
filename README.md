@@ -9,7 +9,6 @@ I'm **Lilien**, passionate about AI, machine learning, and open-source developme
 ## 🤖 Machine Learning & Deep Learning  
 - [CNN Food Classification](https://github.com/Lilien86/Food_Wars_Dataset) - Image classification for food datasets.  
 - [CNN Fashion Classification](https://github.com/Lilien86/Fashion_Computer_Vision) - Fashion dataset training using CNNs.  
-- [NN 2D Data Classification](https://github.com/Lilien86/Neural_Network_Classification) - Simple neural network for classification.  
 - [Linear Regression](https://github.com/Lilien86/Linear_Regression_Model) - Regression models.  
 
 ## 🏆 42 School Projects  
