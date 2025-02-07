@@ -1,23 +1,31 @@
-
-# 👋 Welcome !  
+# 👋 Welcome!  
 I'm **Lilien**. Here, you'll find my projects and contributions.
-
-## 🚀 **Featured Project**
-
-### 🌟 [**Audio_Custom_Node**](https://github.com/yvann-ba/ComfyUI_Yvann-Nodes) 🌟  
-
-[![ComfyUI_Yvann-Nodes](https://img.shields.io/github/stars/yvann-ba/ComfyUI_Yvann-Nodes?style=social)](https://github.com/yvann-ba/ComfyUI_Yvann-Nodes)  
-![Repo Size](https://img.shields.io/github/repo-size/yvann-ba/ComfyUI_Yvann-Nodes) ![Forks](https://img.shields.io/github/forks/yvann-ba/ComfyUI_Yvann-Nodes?style=social)
 
 ---
 
-### 🔧 Other Projects
-- Working on [42](https://42.fr/en/homepage/) projects.
-- Exploring 3D animations with Unreal Engine using [EasyMocap](https://github.com/zju3dv/EasyMocap) and [Freemocap](https://github.com/freemocap/freemocap).
-- Learning [ComfyUI](https://github.com/comfyanonymous/ComfyUI) for 3D animation workflows.
+## 🔧 **ComfyUI Projects**
+- **[Audio Reactive Custom Node](https://github.com/yvann-ba/ComfyUI_Yvann-Nodes)** - [![ComfyUI_Yvann-Nodes](https://img.shields.io/github/stars/yvann-ba/ComfyUI_Yvann-Nodes?style=social)](https://github.com/yvann-ba/ComfyUI_Yvann-Nodes)  
+- **[Latent Space Interpolation](https://github.com/Lilien86/Comfyui_Lilien)**
 
-## 📈 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lilien86)](https://github.com/Lilien86/github-readme-stats)
+## 🤖 **Machine Learning / Deep Learning Projects**
+- **[CNN Food Data Classification](https://github.com/Lilien86/Food_Wars_Dataset)**
+- **[CNN Fashion Data Classification](https://github.com/Lilien86/Fashion_Computer_Vision)**
+- **[NN 2D Data Classification](https://github.com/Lilien86/Neural_Network_Classification)**
+- **[Linear Regression](https://github.com/Lilien86/Linear_Regression_Model)**
+
+## 🏆 **42 School Projects**
+- **[Minishell](https://github.com/Lilien86?tab=repositories)**  
+- **[Cub3D](https://github.com/Lilien86/Cube_3d)**  
+- **[Philosophers](https://github.com/Lilien86/Philosophers)**  
+
+---
+
+## 🔥 Current Focus
+🚀 **Exploring AI-driven multimedia generation** – Combining machine learning with creative applications in image and video processing.  
+🛠️ **Building open-source tools** – Developing user-friendly AI tools within the ComfyUI ecosystem.  
+🎯 **Expanding expertise in deep learning** – Experimenting with neural networks for various classification tasks.
+
+---
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/lilien-auger-93b1b2258/)
