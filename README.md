@@ -1,33 +1,23 @@
-# 👋 Welcome!  
-I'm **Lilien**. Here, you'll find my projects and contributions.
+# Welcome!  
+I'm **Lilien**, passionate about AI, machine learning, and open-source development. Here, you'll find my key projects.
 
 ---
 
-## 🔧 **ComfyUI Projects**
-- **[Audio Reactive Custom Node](https://github.com/yvann-ba/ComfyUI_Yvann-Nodes)** - [![ComfyUI_Yvann-Nodes](https://img.shields.io/github/stars/yvann-ba/ComfyUI_Yvann-Nodes?style=social)](https://github.com/yvann-ba/ComfyUI_Yvann-Nodes)  
-- **[Latent Space Interpolation](https://github.com/Lilien86/Comfyui_Lilien)**
+## 🔧 ComfyUI & AI Tools  
+- [Audio Reactive Custom Node](https://github.com/yvann-ba/ComfyUI_Yvann-Nodes) [![Stars](https://img.shields.io/github/stars/yvann-ba/ComfyUI_Yvann-Nodes?style=social)](https://github.com/yvann-ba/ComfyUI_Yvann-Nodes) - Custom ComfyUI nodes for dynamic content.   
+- [Latent Space Interpolation](https://github.com/Lilien86/Comfyui_Lilien) - Exploring interpolation techniques in latent space.
 
-## 🤖 **Machine Learning / Deep Learning Projects**
-- **[CNN Food Data Classification](https://github.com/Lilien86/Food_Wars_Dataset)**
-- **[CNN Fashion Data Classification](https://github.com/Lilien86/Fashion_Computer_Vision)**
-- **[NN 2D Data Classification](https://github.com/Lilien86/Neural_Network_Classification)**
-- **[Linear Regression](https://github.com/Lilien86/Linear_Regression_Model)**
+## 🤖 Machine Learning & Deep Learning  
+- [CNN Food Classification](https://github.com/Lilien86/Food_Wars_Dataset) - Image classification for food datasets.  
+- [CNN Fashion Classification](https://github.com/Lilien86/Fashion_Computer_Vision) - Fashion dataset training using CNNs.  
+- [NN 2D Data Classification](https://github.com/Lilien86/Neural_Network_Classification) - Simple neural network for classification.  
+- [Linear Regression](https://github.com/Lilien86/Linear_Regression_Model) - Regression models.  
 
-## 🏆 **42 School Projects**
-- **[Minishell](https://github.com/Lilien86?tab=repositories)**  
-- **[Cub3D](https://github.com/Lilien86/Cube_3d)**  
-- **[Philosophers](https://github.com/Lilien86/Philosophers)**  
+## 🏆 42 School Projects  
+- [Minishell](https://github.com/Lilien86?tab=repositories) - Custom Unix shell implementation.  
+- [Cub3D](https://github.com/Lilien86/Cube_3d) - 3D rendering using raycasting.  
+- [Philosophers](https://github.com/Lilien86/Philosophers) - Multithreading and synchronization.  
 
----
 
-## 🔥 Current Focus
-🚀 **Exploring AI-driven multimedia generation** – Combining machine learning with creative applications in image and video processing.  
-🛠️ **Building open-source tools** – Developing user-friendly AI tools within the ComfyUI ecosystem.  
-🎯 **Expanding expertise in deep learning** – Experimenting with neural networks for various classification tasks.
-
----
-
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/lilien-auger-93b1b2258/)
-- [YouTube](https://www.youtube.com/channel/UCxgptCB1LLyliuXIEvfGAqw)
-- [Twitter](https://x.com/Lilien_RIG)
+📬 Feel free to connect:  
+[LinkedIn](https://www.linkedin.com/in/lilien-auger-93b1b2258/) | [YouTube](https://www.youtube.com/channel/UCxgptCB1LLyliuXIEvfGAqw) | [Twitter](https://x.com/Lilien_RIG)  
