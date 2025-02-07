@@ -1,7 +1,6 @@
 # Welcome!  
 I'm **Lilien**, passionate about AI, machine learning, and open-source development. Here, you'll find my key projects.
 
----
 
 ## 🔧 ComfyUI & AI Tools  
 - [Audio Reactive Custom Node](https://github.com/yvann-ba/ComfyUI_Yvann-Nodes) [![Stars](https://img.shields.io/github/stars/yvann-ba/ComfyUI_Yvann-Nodes?style=social)](https://github.com/yvann-ba/ComfyUI_Yvann-Nodes) - Custom ComfyUI nodes for dynamic content.   
