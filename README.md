@@ -3,7 +3,8 @@ I'm **Lilien**, passionate about AI, machine learning, and open-source developme
 
 
 ## 🔧 ComfyUI & AI Tools  
-- [Audio Reactive Custom Node](https://github.com/yvann-ba/ComfyUI_Yvann-Nodes) [![Stars](https://img.shields.io/github/stars/yvann-ba/ComfyUI_Yvann-Nodes?style=social)](https://github.com/yvann-ba/ComfyUI_Yvann-Nodes) - Custom ComfyUI nodes for dynamic content.   
+- [Audio Reactive Custom Node](https://github.com/yvann-ba/ComfyUI_Yvann-Nodes) [![Stars](https://img.shields.io/github/stars/yvann-ba/ComfyUI_Yvann-Nodes?style=social)](https://github.com/yvann-ba/ComfyUI_Yvann-Nodes) - Custom ComfyUI nodes for dynamic content.
+- [Web-UI Stable Diffusion](https://github.com/Lilien86/Image_Generator_SD) - Gradio Web-UI
 - [Latent Space Interpolation](https://github.com/Lilien86/Comfyui_Lilien) - Exploring interpolation techniques in latent space.
 
 ## 🤖 Machine Learning & Deep Learning  
