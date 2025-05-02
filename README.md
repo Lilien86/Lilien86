@@ -13,8 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilien86&layout=compact&theme=dark&langs_count=6&card_width=400&hide_border=true&title_color=FF5555&text_color=FFFFFF&icon_color=BB86FC" alt="Top Languages" />
 </p>
 
----
-
 <h2 align="center">💻 Skills ⚙️</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FF5555?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Python" />
@@ -26,15 +24,6 @@
   <img src="https://img.shields.io/badge/PyTorch-FF5555?style=for-the-badge&logo=pytorch&logoColor=FFFFFF" alt="PyTorch" />
   <img src="https://img.shields.io/badge/FastAPI-BB86FC?style=for-the-badge&logo=fastapi&logoColor=FFFFFF" alt="FastAPI" />
 </p>
-
----
-
-<h2 align="center">📊 GitHub Stats 📈</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lilien86&show_icons=true&theme=dark&hide_border=true&title_color=FF5555&text_color=FFFFFF&icon_color=BB86FC" alt="GitHub Stats" />
-</p>
-
----
 
 <h2 align="center">📫 Connect with Me 🤝</h2>
 <p align="center">
