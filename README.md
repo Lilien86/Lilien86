@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #FFFFFF;">Lilien86 🌟</h1>
+<h1 align="center" style="color: #FFFFFF;">Lilien 🌟</h1>
 <p align="center">
   <i>Student at 42 School & Freelance AI Integration Specialist ✨</i>
 </p>
