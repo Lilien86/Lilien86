@@ -27,5 +27,5 @@
 <h2 align="center">📫 Connect with Me 🤝</h2>
 <p align="center">
   <a href="https://www.instagram.com/lilien.rig/"><img src="https://img.shields.io/badge/Instagram-FF5555?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram" /></a>
-  <a href="https://www.linkedin.com/feed/?trk=sem-ga_campid.21228777300_asid.161774284317_crid.698137525090_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.9056417"><img src="https://img.shields.io/badge/LinkedIn-BB86FC?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/lilien-auger/"><img src="https://img.shields.io/badge/LinkedIn-BB86FC?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
 </p>
